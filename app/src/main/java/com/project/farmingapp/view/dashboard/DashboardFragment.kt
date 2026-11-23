@@ -121,7 +121,7 @@ class dashboardFragment : Fragment(), CellClickListener {
         super.onViewCreated(view, savedInstanceState)
 
         setHasOptionsMenu(true)
-        (activity as AppCompatActivity).supportActionBar?.title = "Agri India"
+        (activity as AppCompatActivity).supportActionBar?.title = "KrishiMitra"
 
         weatherCard.setOnClickListener {
             weatherFragment = WeatherFragment()

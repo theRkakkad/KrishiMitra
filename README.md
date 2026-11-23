@@ -1,16 +1,15 @@
-# 👨‍🌾 Agri India - One stop application for Indian Farmers
+# 🌾 KrishiMitra — One Stop Application for Indian Farmers
 
-✒️ This is an Android Application designed for our Indian farmers. 
+✒️ KrishiMitra is an Android application designed for our Indian farmers.
 
-✒️ The technology has become a part and parcel of everyone's life and it is also helping us to make our daily tasks easy.
-We identified that in the Agriculture sector, the farmers are still lacking the best technology use cases. 
+✒️ Technology has become a part and parcel of everyone's life, and it is also helping us make our daily tasks easier.
+We identified that in the agriculture sector, farmers are still lacking the best technology use cases.
 
-✒️ There are thousands of applications in the markets for farmers but they only provide the limited features.
+✒️ There are thousands of applications in the market for farmers, but they only provide limited features.
 
-✒️ The main reason for creating this application was to combine every possible feature into the single app. This will remove the burden of managing multiple account and apps for farmers.
-The application is also designed in such a way that it will be easy to use.
+✒️ The main reason for creating KrishiMitra was to combine every possible feature into a single app. This removes the burden of managing multiple accounts and apps for farmers.
+The application is also designed in such a way that it is easy to use.
 <br /><br />
-
 
 ## ✨ Features:
 - Government Yojna Awareness
@@ -21,12 +20,12 @@ The application is also designed in such a way that it will be easy to use.
 - Weather Forecasting
 <br /><br />
 
-## 📱 Technologies / Tools used for building this app includes:
+## 📱 Technologies / Tools used for building this app include:
 | Android Studio | Firebase | Kotlin | External APIs | Android OS |
 | --- | --- | --- | --- | --- |
-
+<br /><br />
 
 ## 🤩 Designs:
-<img src="https://github.com/hetsuthar028/Farming-App/blob/master/Agri India.png" />
+<img src="KrishiMitra.png" alt="KrishiMitra app design" />
 
 ## 😀 If you liked the app, Please give it a ⭐ and fork the repository. 🤚🏻
